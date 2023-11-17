@@ -7,7 +7,6 @@ export default function Contact() {
   return (
     <html lang="en">
       <body>
-        <Navbar/>
         <Box display='flex' flexDirection='column' gap={6}>
           <Typography>content</Typography>
           <Typography>content</Typography>
