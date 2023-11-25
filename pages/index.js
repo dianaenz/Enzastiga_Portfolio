@@ -1,8 +1,6 @@
 import * as React from 'react';
 import Navbar from '../components/Navbar';
 import {Box, Typography} from '@mui/material/';
-
-
 export default function Page() {
   return (
     <html lang="en">
